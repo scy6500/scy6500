@@ -1,16 +1,32 @@
-### Hi there 👋
+# Changyeop Sung 👋
 
-<!--
-**scy6500/scy6500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>🏫 Education</h3>
 
-Here are some ideas to get you started:
+|소속|활동 기간|내용|
+|---|---|---|
+|국민대학교|2019.03 ~ 2025.02 (예정)| 국민대학교 소프트웨어학부 재학 중 (3.92/4.5)|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🏢 Experience</h3>
+
+|소속|활동 기간|내용|
+|---|---|---|
+|국민대학교 정보보호 연구실|2020.07 ~ 2020.12| 학부 연구생 |
+|커먼컴퓨터|2021.03 ~ 2023.02|프론트 엔드 개발 및 AI 모델 데모 개발, 기술 블로그 작성|
+|커먼컴퓨터|2023.02 ~ |프론트 엔드 개발 및 유지 보수 (프리랜서) |
+|화이트햇 스쿨 2기|2024.03 ~ |정보보호 이론 교육 및 프로젝트 진행 |
+
+
+<h3>📃 Projects</h3>
+
+| 기간 | 내용 |
+| --- | --- |
+| 2023.07 ~ 2023.08　|청각 장애인을 위한 도로 안전 서비스 '<a href="https://github.com/KOBOT-BOARD12">See Your Sound</a>' TL 및 AI 모델 서버 개발 담당 |
+
+<h3>🏆 Awards</h3>
+
+|수상 년월|발행 기관|내용|
+|---|---|---|
+|2020.10| 한국정보보호학회 | 산업제어시스템 보안위협 탐지 AI 경진대회 입선 |
+|2020.10| 경기도경제과학진흥원 | K-사이버챌린지 악성코드 탐지 부분 경기지역 예선 1위 |
+|2020.12| 과학기술정보통신부 | K-사이버챌린지 2020 AI기반 악성코드 탐지 부분 최우수상 |
+|2024.02| 미래자동차 혁신융학대학 | 2023 동계 혁신융합대학 가상환경 기반 자율주행 경진대회 장려상 |
